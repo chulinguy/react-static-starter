@@ -1,6 +1,5 @@
 backend:
   name: test-repo
-  branch: master
 
 site_url: https://example.com
 
